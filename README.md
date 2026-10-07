@@ -1,2 +1,6 @@
 # Travel-Tech
-E-commerce platform for the travel industry
+Mixvel - E-commerce platform for the travel industry.
+
+
+
+
