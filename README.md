@@ -1,6 +1,6 @@
 # Travel Tech
 
-**[Mixvel](https://mixvel.com/en/home)** — E-commerce platform for the travel industry.
+**[Mixvel](https://mixvel.com/en/home)** — e-commerce platform for the travel industry, providing flight, hotel, and railway ticket booking services.
 
 As a Business Systems Analyst, I was responsible for:
 
