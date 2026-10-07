@@ -1,4 +1,4 @@
-# Travel-Tech
+# Travel Tech
 
 **[Mixvel](https://mixvel.com/en/home)** — E-commerce platform for the travel industry.
 
